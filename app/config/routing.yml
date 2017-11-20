@@ -1,0 +1,8 @@
+smartmirror:
+    resource: "@SmartmirrorBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation

@@ -1,0 +1,4 @@
+services:
+#    smartmirror.example:
+#        class: SmartmirrorBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
